@@ -1,5 +1,5 @@
 # Multiple Regression Analysis of Macroeconomic Variables and Small Cap vs. Large Cap Spread Returns
-This project explored the relationship between various macroeconomic variables and the monthly spread return between the Russell 2000 index and the S&P 500 index. Using multiple regression, the project identified key variables that have statistically significant (α<0.05) relationships with the spread returns.
+This project explored the relationship between various macroeconomic variables and the monthly spread return between the Russell 2000 index and the S&P 500 index. Using multiple regression, the project identified key variables that have statistically significant (α<0.05) relationships with the spread returns. In the PDF attached, this work is done under all of the "Second Hypothesis" subheadings.
 
 ## Null Hypothesis and Alternative Hypothesis
 The null hypothesis tested in this project was as follows:
