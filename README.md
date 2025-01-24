@@ -17,7 +17,7 @@ The issue of multicollinearity was also addressed before fitting the multiple re
 
 After fitting the model, significant relationips were found and simulations involving missing data were conducted to see how the relationships would be impacted.
 
-## Key Findings
+## Findings
 Several variables were found to be statistically significant:
 1. Yields of corporate bonds rated CCC and lower
 2. Market price of crude oil
